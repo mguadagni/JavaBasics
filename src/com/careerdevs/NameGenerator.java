@@ -7,3 +7,4 @@ public class NameGenerator {
         return firstName + " " + lastName;
     }
 }
+
