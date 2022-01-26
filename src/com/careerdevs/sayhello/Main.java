@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        //whatIsYourFullName();
-        sayhello2();
+        whatIsYourFullName();
     }
 
     public static void whatIsYourName() {
